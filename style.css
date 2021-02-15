@@ -1,0 +1,33 @@
+body{
+    background-color: lightgreen;
+}
+
+h2{
+    color: yellow;
+}
+
+hr{
+    color: yellow;
+    margin: 2px;
+}
+
+a{
+    color: green;
+}
+
+.jobbra>img{
+    float: right;
+}
+
+.sarga{
+    background-color: yellow;
+}
+
+.kistabla{
+    text-align: center;
+}
+
+.puli{
+    position: relative;
+    bottom: 110px;
+}
